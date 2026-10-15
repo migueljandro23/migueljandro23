@@ -80,9 +80,9 @@ This repository was created for my **Algorithms class**. It will contain:
 | Item | Details |
 |------|---------|
 | Course | Algorithms and Data Structures |
-| Professor | [Professor's Name] |
+| Teacher | Ing. Juan Pablo Guevara |
 | Semester | 2026-2027 |
-| Language used | Python |
+| Language used | JAVA |
 
 ---
 
@@ -104,7 +104,7 @@ algorithms-course/
 └── assets/                # Images or diagrams
 ```
 
-> 💡 *Update this tree as you add new folders during the semester.*
+
 
 ---
 
@@ -149,9 +149,9 @@ python 01-introduction/hello_world.py
 
 ## 📬 Contact
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🐙 GitHub: [@your-username](https://github.com/your-username)
+- 📧 Email: macandoq@uce.edu.ec
+- 💼 LinkedIn: https://ec.linkedin.com/in/miguel-alejandro-cando-quintanilla-43b388291
+- 🐙 GitHub: [[@your-username](https://github.com/your-username)](https://github.com/migueljandro23)
 
 ---
 
